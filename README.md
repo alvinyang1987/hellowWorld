@@ -1,2 +1,2 @@
 # hellowWorld
-This is my first repository on githug
+This is my first repository on github
